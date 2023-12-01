@@ -1,0 +1,54 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 6.3 x64 6.3.3.8069
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl Metal
+Ka 0.380392 0.290196 0.160784
+Kd 0.380392 0.290196 0.160784
+Ks 1 1 1
+illum 2
+Ns 512
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Leather
+Ka 0.580392 0.341176 0.0980392
+Kd 0.580392 0.341176 0.0980392
+Ks 1 1 1
+illum 2
+Ns 22.6274
+map_Kd ffbvcxxz.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Btm
+Ka 0.705882 0.521569 0.113725
+Kd 0.705882 0.521569 0.113725
+Ks 0.905882 0.905882 0.905882
+illum 2
+Ns 724.077
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 

@@ -1,0 +1,6 @@
+﻿  OpenGLMeshLoader.cpp
+C:\Users\mohamed\Downloads\Project Graphics\TextureBuilder.h(27,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\mohamed\Downloads\Project Graphics\TextureBuilder.h(28,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\mohamed\Downloads\Project Graphics\OpenGLMeshLoader.cpp(142,11): warning C4101: 'i': unreferenced local variable
+GLTexture.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGLMeshLoader.vcxproj -> C:\Users\mohamed\Downloads\Project Graphics\Debug\OpenGLMeshLoader19.exe
